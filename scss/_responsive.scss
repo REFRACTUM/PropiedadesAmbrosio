@@ -538,6 +538,11 @@
     font-size: 18px;
   }
 
+  .box1 {
+    margin: auto;
+    width: 300px;
+  }
+
 }
 
 @media (max-width: 380px) {
@@ -589,7 +594,8 @@
   }
 
   .box1 {
-    width: 260px;
+    padding: 10px 10px;
+    width: 240px;
     margin: auto;
   }
 
