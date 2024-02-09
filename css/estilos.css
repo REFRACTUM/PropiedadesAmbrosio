@@ -476,7 +476,7 @@ h4 {
 .contactanos {
   position: relative;
   width: 100%;
-  padding: 20px 40px;
+  padding: 10px 0px;
   align-items: center;
 }
 .contactanos .titulo {
@@ -501,7 +501,7 @@ h4 {
 }
 
 .contacto1 {
-  padding: 40px;
+  padding: 20px;
   background: #ffffff;
   box-shadow: 0 5px 35px #000000;
 }
@@ -823,8 +823,8 @@ h4 {
     margin-bottom: 20px;
   }
   .contactanos {
-    width: 100%;
     margin: auto;
+    width: 100%;
   }
   .box1 {
     grid-template-columns: 1fr;
@@ -1068,13 +1068,6 @@ h4 {
   .servi {
     width: 100px;
     height: 100px;
-  }
-  .contactanos {
-    width: 80%;
-    margin-left: -40px;
-  }
-  .contactanos .titulo h2 {
-    margin-left: 150px;
   }
 }
 
