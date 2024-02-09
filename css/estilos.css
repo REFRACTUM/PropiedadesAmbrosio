@@ -1037,10 +1037,6 @@ h4 {
   .contacto1 h3 {
     font-size: 18px;
   }
-  .box1 {
-    margin: auto;
-    width: 300px;
-  }
 }
 @media (max-width: 380px) {
   .header-txt {
@@ -1075,11 +1071,6 @@ h4 {
   }
   .contacto1 {
     padding: 5px 5px;
-  }
-  .box1 {
-    padding: 10px 10px;
-    width: 240px;
-    margin: auto;
   }
 }
 
