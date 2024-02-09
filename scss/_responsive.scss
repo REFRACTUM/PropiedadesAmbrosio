@@ -223,9 +223,6 @@
       "map";
   }
 
-  .map {
-    min-height: 300px;
-  }
 
   .formBox .row50 {
     display: flex;
@@ -236,6 +233,16 @@
   .inputBox {
     width: 100%;
   }
+
+  .contact1 {
+    padding: 0;
+  }
+
+  .map {
+    min-height: 300px;
+    padding: 0;
+  }
+
 
 
   .card-text {
@@ -585,7 +592,4 @@
     height: 100px;
   }
 
-  .contacto1 {
-    padding: 5px 5px;
-  }
 }
